@@ -35,12 +35,12 @@ $ git push -u origin master
 <then Enter Username and Password>
 ```
  
- ## Videocapture:
+##Videocapture:
 -----------
 
  https://youtu.be/gQQIOVMC4a0
  
- ## Build/Install
+##Build/Install
  
  ```shell
  $ ./gradlew installDebug
